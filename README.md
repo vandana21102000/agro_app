@@ -1,4 +1,4 @@
-<h1 align="center" id="title">🌿 AGRO APP</h1>
+
 
 <p align="center">
   <img src="https://socialify.git.ci/vandana21102000/agro_app/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light" alt="project-banner">
