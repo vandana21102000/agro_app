@@ -1,8 +1,7 @@
-<h1 align="center" id="title">
-  <img src="agro_logo_img.jpg" alt="Agro App Logo" style="height: 80px; vertical-align: middle; margin-right: 10px;">
+<h1 align="center" id="title" style="display: flex; justify-content: center; align-items: center; gap: 16px; font-family: Georgia, serif; color: #117A65; font-size: 48px; font-weight: 900;">
+  <img src="agro_logo_img.jpg" alt="Agro App Logo" style="height: 110px; vertical-align: middle; border-radius: 12px;">
   AGRO APP
 </h1>
-
 
 
 <p align="center">
