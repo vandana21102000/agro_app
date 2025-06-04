@@ -56,8 +56,10 @@ rainfall_model = joblib.load(rainfall_model_path)
 # Sidebar with title icon and extended options
 
 with st.sidebar:
+    st.markdown("### 🌾 AGRO APP")  
+
     selected = option_menu(
-        menu_title="🌾 AGRO APP",
+        menu_title=None,
         options=[
             "Home", 
             "Crop Recommendation", 
@@ -102,6 +104,14 @@ def display_notebook(nb_path, height=1600):
 
         # Parse HTML with BeautifulSoup
         soup = BeautifulSoup(body, 'html.parser')
+
+
+         # REMOVE unwanted characters like ¶ and stray pipes |
+        for tag in soup.find_all(text=True):
+            if isinstance(tag, str):
+                cleaned = tag.replace('¶', '').replace('|', '')
+                tag.replace_with(cleaned)
+
 
         # Style input code cells
         for div in soup.find_all("div", class_="input"):
