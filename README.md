@@ -16,6 +16,19 @@ Agro App is designed to empower farmers and agricultural analysts with intellige
 
 ---
 
+## 🚀 Live Demo
+
+👉 Click the button below to try the AGRO APP:
+
+[![Visit AGRO APP](https://img.shields.io/badge/🌾%20Open%20AGRO%20APP-Click%20Here-brightgreen?style=for-the-badge)](https://vandana21102000-agro-app-app-ksv5yl.streamlit.app/)
+
+Or use the official Streamlit badge:
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vandana21102000-agro-app-app-ksv5yl.streamlit.app/)
+
+---
+
+
 ## 📸 Project Screenshots
 
 
@@ -24,6 +37,8 @@ Agro App is designed to empower farmers and agricultural analysts with intellige
   &nbsp;&nbsp;
 </p>
 
+
+---
 
 ## 🧠 Features
 
