@@ -4,6 +4,8 @@
   <img src="https://socialify.git.ci/vandana21102000/agro_app/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light" alt="project-banner">
 </p>
 
+
+
 <p id="description">
 Agro App is designed to empower farmers and agricultural analysts with intelligent tools for precision farming. It delivers accurate rainfall predictions using XGBoost and personalized crop recommendations through a Random Forest model. Visualize model training, view code outputs, and make data-driven decisions—all in a user-friendly Streamlit interface.
 </p>
